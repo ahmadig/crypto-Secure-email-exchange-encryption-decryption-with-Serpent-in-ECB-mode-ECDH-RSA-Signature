@@ -1,4 +1,4 @@
-# crypto-Secure-email-exchange-encryption-decryption-with-Serpent-in-ECB-mode-DHEC-RSA-signature-
+# crypto-Secure-email-exchange-encryption-decryption with Serpent in ECB mode-DHEC-RSA-signature
 IN our project we describe how we do encryption for a massage when we send it and decryption when we receive it , with serpent in ECB mode , we use the ECDH for secrut key , and RSA signature , we can see a descrbtion for all this function in power point .
 
 ![1_ASg83R7rGyTOYSI3KlRsYA](https://user-images.githubusercontent.com/65724677/128144350-0f9411ee-3945-488d-9037-7732893270cc.png)
